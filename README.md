@@ -21,4 +21,4 @@ An AI-powered Quiz Generator that adapts the difficulty of questions in real tim
 
 ```bash
 npm install
-node server.js
+npm run dev
