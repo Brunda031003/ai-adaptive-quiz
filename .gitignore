@@ -1,0 +1,15 @@
+# Ignore environment variables
+.env
+.env.local
+
+# Node modules (always ignore this)
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific
+.DS_Store
+Thumbs.db
